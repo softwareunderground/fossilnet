@@ -16,3 +16,7 @@ FossilNET images were collected and curated by [Matt Hall](https://github.com/kw
  - Gastropods
  - Plants
  - Trilobites
+
+## Getting the data
+
+Run the `get_data.sh` shell script in order to pull the data down from S3
