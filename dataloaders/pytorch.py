@@ -2,7 +2,7 @@ import os
 import os.path
 
 from torchvision.datasets import ImageFolder
-from torchvision.datasets.utils import  download_and_extract_archive, verify_str_arg
+from torchvision.datasets.utils import download_and_extract_archive, verify_str_arg
 
 
 class FossilNET(ImageFolder):
